@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 0bbe340f816c39444a9bd10eda06e809
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mega_man_x4__items_by_darksamus993-d8o46ts_0
+    21300002: mega_man_x4__items_by_darksamus993-d8o46ts_1
+    21300004: mega_man_x4__items_by_darksamus993-d8o46ts_2
+    21300006: mega_man_x4__items_by_darksamus993-d8o46ts_3
+    21300008: mega_man_x4__items_by_darksamus993-d8o46ts_4
+    21300010: mega_man_x4__items_by_darksamus993-d8o46ts_5
+    21300012: mega_man_x4__items_by_darksamus993-d8o46ts_6
+    21300014: mega_man_x4__items_by_darksamus993-d8o46ts_7
+    21300016: mega_man_x4__items_by_darksamus993-d8o46ts_8
+    21300018: mega_man_x4__items_by_darksamus993-d8o46ts_9
+    21300020: mega_man_x4__items_by_darksamus993-d8o46ts_10
+    21300022: mega_man_x4__items_by_darksamus993-d8o46ts_11
+    21300024: mega_man_x4__items_by_darksamus993-d8o46ts_12
+    21300026: mega_man_x4__items_by_darksamus993-d8o46ts_13
+    21300028: mega_man_x4__items_by_darksamus993-d8o46ts_14
+    21300030: mega_man_x4__items_by_darksamus993-d8o46ts_15
+    21300032: mega_man_x4__items_by_darksamus993-d8o46ts_16
+    21300034: mega_man_x4__items_by_darksamus993-d8o46ts_17
+    21300036: mega_man_x4__items_by_darksamus993-d8o46ts_18
+    21300038: mega_man_x4__items_by_darksamus993-d8o46ts_19
+    21300040: mega_man_x4__items_by_darksamus993-d8o46ts_20
+    21300042: mega_man_x4__items_by_darksamus993-d8o46ts_21
+    21300044: mega_man_x4__items_by_darksamus993-d8o46ts_22
+    21300046: mega_man_x4__items_by_darksamus993-d8o46ts_23
+    21300048: mega_man_x4__items_by_darksamus993-d8o46ts_24
+    21300050: mega_man_x4__items_by_darksamus993-d8o46ts_25
+    21300052: mega_man_x4__items_by_darksamus993-d8o46ts_26
+    21300054: mega_man_x4__items_by_darksamus993-d8o46ts_27
+    21300056: mega_man_x4__items_by_darksamus993-d8o46ts_28
+    21300058: mega_man_x4__items_by_darksamus993-d8o46ts_29
+    21300060: mega_man_x4__items_by_darksamus993-d8o46ts_30
+    21300062: mega_man_x4__items_by_darksamus993-d8o46ts_31
+    21300064: mega_man_x4__items_by_darksamus993-d8o46ts_32
+    21300066: mega_man_x4__items_by_darksamus993-d8o46ts_33
+    21300068: mega_man_x4__items_by_darksamus993-d8o46ts_34
+    21300070: mega_man_x4__items_by_darksamus993-d8o46ts_35
+    21300072: mega_man_x4__items_by_darksamus993-d8o46ts_36
+    21300074: mega_man_x4__items_by_darksamus993-d8o46ts_37
+    21300076: mega_man_x4__items_by_darksamus993-d8o46ts_38
+    21300078: mega_man_x4__items_by_darksamus993-d8o46ts_39
+    21300080: mega_man_x4__items_by_darksamus993-d8o46ts_40
+    21300082: mega_man_x4__items_by_darksamus993-d8o46ts_41
+    21300084: mega_man_x4__items_by_darksamus993-d8o46ts_42
+    21300086: mega_man_x4__items_by_darksamus993-d8o46ts_43
+    21300088: mega_man_x4__items_by_darksamus993-d8o46ts_44
+    21300090: mega_man_x4__items_by_darksamus993-d8o46ts_45
+    21300092: mega_man_x4__items_by_darksamus993-d8o46ts_46
+    21300094: mega_man_x4__items_by_darksamus993-d8o46ts_47
+    21300096: mega_man_x4__items_by_darksamus993-d8o46ts_48
+    21300098: mega_man_x4__items_by_darksamus993-d8o46ts_49
+    21300100: mega_man_x4__items_by_darksamus993-d8o46ts_50
+    21300102: mega_man_x4__items_by_darksamus993-d8o46ts_51
+    21300104: mega_man_x4__items_by_darksamus993-d8o46ts_52
+    21300106: mega_man_x4__items_by_darksamus993-d8o46ts_53
+    21300108: mega_man_x4__items_by_darksamus993-d8o46ts_54
+    21300110: mega_man_x4__items_by_darksamus993-d8o46ts_55
+    21300112: mega_man_x4__items_by_darksamus993-d8o46ts_56
+    21300114: mega_man_x4__items_by_darksamus993-d8o46ts_57
+    21300116: mega_man_x4__items_by_darksamus993-d8o46ts_58
+    21300118: mega_man_x4__items_by_darksamus993-d8o46ts_59
+    21300120: mega_man_x4__items_by_darksamus993-d8o46ts_60
+    21300122: mega_man_x4__items_by_darksamus993-d8o46ts_61
+    21300124: mega_man_x4__items_by_darksamus993-d8o46ts_62
+    21300126: mega_man_x4__items_by_darksamus993-d8o46ts_63
+    21300128: mega_man_x4__items_by_darksamus993-d8o46ts_64
+    21300130: mega_man_x4__items_by_darksamus993-d8o46ts_65
+    21300132: mega_man_x4__items_by_darksamus993-d8o46ts_66
+    21300134: mega_man_x4__items_by_darksamus993-d8o46ts_67
+    21300136: mega_man_x4__items_by_darksamus993-d8o46ts_68
+    21300138: mega_man_x4__items_by_darksamus993-d8o46ts_69
+    21300140: mega_man_x4__items_by_darksamus993-d8o46ts_70
+    21300142: mega_man_x4__items_by_darksamus993-d8o46ts_71
+    21300144: mega_man_x4__items_by_darksamus993-d8o46ts_72
+    21300146: mega_man_x4__items_by_darksamus993-d8o46ts_73
+    21300148: mega_man_x4__items_by_darksamus993-d8o46ts_74
+    21300150: mega_man_x4__items_by_darksamus993-d8o46ts_75
+    21300152: mega_man_x4__items_by_darksamus993-d8o46ts_76
+    21300154: mega_man_x4__items_by_darksamus993-d8o46ts_77
+    21300156: mega_man_x4__items_by_darksamus993-d8o46ts_78
+    21300158: mega_man_x4__items_by_darksamus993-d8o46ts_79
+    21300160: mega_man_x4__items_by_darksamus993-d8o46ts_80
+    21300162: mega_man_x4__items_by_darksamus993-d8o46ts_81
+    21300164: mega_man_x4__items_by_darksamus993-d8o46ts_82
+    21300166: mega_man_x4__items_by_darksamus993-d8o46ts_83
+    21300168: mega_man_x4__items_by_darksamus993-d8o46ts_84
+    21300170: mega_man_x4__items_by_darksamus993-d8o46ts_85
+    21300172: mega_man_x4__items_by_darksamus993-d8o46ts_86
+    21300174: mega_man_x4__items_by_darksamus993-d8o46ts_87
+    21300176: mega_man_x4__items_by_darksamus993-d8o46ts_88
+    21300178: mega_man_x4__items_by_darksamus993-d8o46ts_89
+    21300180: mega_man_x4__items_by_darksamus993-d8o46ts_90
+    21300182: mega_man_x4__items_by_darksamus993-d8o46ts_91
+    21300184: mega_man_x4__items_by_darksamus993-d8o46ts_92
+    21300186: mega_man_x4__items_by_darksamus993-d8o46ts_93
+    21300188: mega_man_x4__items_by_darksamus993-d8o46ts_94
+    21300190: mega_man_x4__items_by_darksamus993-d8o46ts_95
+    21300192: mega_man_x4__items_by_darksamus993-d8o46ts_96
+    21300194: mega_man_x4__items_by_darksamus993-d8o46ts_97
+    21300196: mega_man_x4__items_by_darksamus993-d8o46ts_98
+    21300198: mega_man_x4__items_by_darksamus993-d8o46ts_99
+    21300200: mega_man_x4__items_by_darksamus993-d8o46ts_100
+    21300202: mega_man_x4__items_by_darksamus993-d8o46ts_101
+    21300204: mega_man_x4__items_by_darksamus993-d8o46ts_102
+    21300206: mega_man_x4__items_by_darksamus993-d8o46ts_103
+    21300208: mega_man_x4__items_by_darksamus993-d8o46ts_104
+    21300210: mega_man_x4__items_by_darksamus993-d8o46ts_105
+    21300212: mega_man_x4__items_by_darksamus993-d8o46ts_106
+    21300214: mega_man_x4__items_by_darksamus993-d8o46ts_107
+    21300216: mega_man_x4__items_by_darksamus993-d8o46ts_108
+    21300218: mega_man_x4__items_by_darksamus993-d8o46ts_109
+    21300220: mega_man_x4__items_by_darksamus993-d8o46ts_110
+    21300222: mega_man_x4__items_by_darksamus993-d8o46ts_111
+    21300224: mega_man_x4__items_by_darksamus993-d8o46ts_112
+    21300226: mega_man_x4__items_by_darksamus993-d8o46ts_113
+    21300228: mega_man_x4__items_by_darksamus993-d8o46ts_114
+    21300230: mega_man_x4__items_by_darksamus993-d8o46ts_115
+    21300232: mega_man_x4__items_by_darksamus993-d8o46ts_116
+    21300234: mega_man_x4__items_by_darksamus993-d8o46ts_117
+    21300236: mega_man_x4__items_by_darksamus993-d8o46ts_118
+    21300238: mega_man_x4__items_by_darksamus993-d8o46ts_119
+    21300240: mega_man_x4__items_by_darksamus993-d8o46ts_120
+    21300242: mega_man_x4__items_by_darksamus993-d8o46ts_121
+    21300244: mega_man_x4__items_by_darksamus993-d8o46ts_122
+    21300246: mega_man_x4__items_by_darksamus993-d8o46ts_123
+    21300248: mega_man_x4__items_by_darksamus993-d8o46ts_124
+    21300250: mega_man_x4__items_by_darksamus993-d8o46ts_125
+    21300252: mega_man_x4__items_by_darksamus993-d8o46ts_126
+    21300254: mega_man_x4__items_by_darksamus993-d8o46ts_127
+    21300256: mega_man_x4__items_by_darksamus993-d8o46ts_128
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ae7b1119363e4f8f3b20e37b489d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 440
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e5cd142399b70468abb91a7a2a9476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 440
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee41c4be05567c4ea2873e03ef72fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e54aa6a2e020145b570bddc1b4cdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 439
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4066386244b9544a8419d751abedeaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 438
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7848d659cc1c6f42a69e11c4663eda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 439
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b54b6341b3f541a73c3a6a3e6885c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 440
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa80cfa478e187f41877756fea36f66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 439
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60da437f1cfe89e4b81f1db68deed00a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 438
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a2ba69a90d8a48978e33c2da6c21b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 398
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04eb8860f5577f4a845bd006105d3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 398
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabcd9d4a9df92e4f9017aba7d34bd7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 398
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657437ce956cc344195c9feb9559a3dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 398
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc13ed448962bca4095b76a00aadb6df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 397
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13359d311d7aaa047be25419d6731bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 396
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8920ec7e00bb8e42bf8c93a2a1a3429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 397
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755600beb3b092d4b83244b2a1ea4bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 398
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe1b453ac82994896f53442b52be41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 397
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f590992e33455468447be366a4a24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db20369fa695e8742b9df5857f9b5a1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 368
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1449d6dc0c7541948c5fb5952fbc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 368
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c48525f333a9d418d66c85251929bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 368
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe596d1d77b23334bae9c84770c5f6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 368
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2481e46489ac240b8551c882053f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de526e8800ad01142954987e9bd76906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 368
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ccfdf8730d424cb7a6bb12a67cc46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967ced9f2c8f8254580d3e47d385066c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 335
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaced8c029bced04f9e860d1c67b804d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 335
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e43128d65e7842905c3adc7b2dab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 335
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44907a97a911148af2be0531930e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 335
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073d92e10a680c4382e0e1ad9b4d5e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 335
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32534840cd312e04482103c53e30ff95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 335
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff031b2f54c7a4abf4e8c24650ae6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 335
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657684e89f26bac44ab65fbaa18b4e0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 335
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb9b575cf806bc47be26a2eedfad96f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 335
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b292ae962cac45a13cb71c2d4bdbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 335
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d878511445894e92dd9cac4f671a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b19b7936051c31479cd3cc46eed0c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b99b2e05ecbdd4cac04aa86b1147e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a488c8d3bf42fd74384407ed4bd24b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a54d2dcae1517428cb19825c6a61cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2cc160fb1149744894b9d462da9c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889106355c383424d8ac20d1ee81e2af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63f358f95a8924cb7ec712e48610fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_44
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7fa49d5d22b74ea0bf553cf201b25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212be70e92c4394eb34b7991fdd7841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98a332aac4c533409097e3a06dfc642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d7450436ffa547bb2640199021438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 284
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597963a992aab0a48966a710bdd88f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8e8d7619a9f146adbb812f32dc02b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3028b1c4ed2ad4bb6f5003f03e9c13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e674f89e0be24fa10c403b25b1fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6cb9a64f31ef4d8da113d92ea8091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_53
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f87cd031db46846925e4c9b0c95bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e9326bf7e79d42bc8f6d54355968d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98af2da330c1ea4e8242b97ef0c4329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_56
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3436493b80dbe4ba2959fa7c70dc37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48816a0787bf15e4c937a007fb65971e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f60ae5b4570bb046a943b5f040dcad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b63097e14b3b941be92bae28ead5c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f43c2e0c60e19499d4bee08a04b611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a280e254fdc1848a6f3c93bb78d095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a229ff39a527498b1498f4f8d16a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_63
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ef962190e56b44299e6cca7698552b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f80d2de3398f40ac00ac222ecc7a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8650c522033aee4da9151389d4518ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ace66f796059f45a58ed638a1fbc34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab78bf89b61960d4d965bc9b18e01810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced1b3246cee2546b6f6a9c7d163a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa249d3c4e49f34db0038ed7718f08c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_70
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5ba5a36d023f40900dabd2b66cc85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334016165a01f49499a0948b759a74da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_72
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58463da02fca53449c25647086bf8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_73
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef964f275edd1042aa61eab6805bdf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b63ce41fa0314a48bd505fd10d4240c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_75
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97bb34adfd073048a5328578ffd0ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_76
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b3a6321f3166c43adc9c23d748a80a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def27f75e8ab5ea4fbcf3623a9855047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_78
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa63c867df78c4f9eb2151bc09a6c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba843baf1746c847afb69262fe72623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dcfbd958b10e4dbcfef61655c22f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c668cd82d80f340479b4c5d44881c02d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fadd29379b5294390d67e688dfc491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_83
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc30a3025a24f84ab4734cf80145ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_84
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765fe8e5bc09d14c8d6b29caa154477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26d5ab5ab7f7d34187046b1be356393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_86
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e75caa3a1c8a3a4ca27e508be0cf1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa7be5d10beaa44ad45c35b6f2e028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_88
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61557618b21f474687a4e7eaa3205f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_89
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ed4a43a91c174ba6d05066a0f8f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_90
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe8d040e9d2ffc4ab85a80ce2e5bed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fcd8f60d38024d846a182c58b131c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_92
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 183
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a941ea92252bd4db16cde24dce3cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_93
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 139
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62754e364025ef04687e4b304ec33538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465c9f93c9feb94893c19ccb6fbb59d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_95
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bdc86a3c161324184b7cfae0730a7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 141
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6fe3f92c61054fae984b0a79d2879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 141
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1dd60758445c498f39e88a5fdea2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed117486dcbe2034fb18a1d12f6f68e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 141
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7695026403aa4d7449d0be0a1619683b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_100
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 141
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32e64aa44af65428505dec08461e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_101
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 141
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87759d6a51ef94cb43c7062eaea424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_102
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 141
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d53a665805986409166c6f1497c652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_103
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 141
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b051aa4b5ebb94fb9598921cbe6945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_104
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 141
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f400105aaf473e48838747cfb2a3cd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 141
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b214903a0792644b4965caa41ed956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_106
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 141
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d43deeb3c5c3f42ab291dd8a8107ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_107
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 141
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b408cfe9db9d24f8c6ee8d6e44a42b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 138
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbfef2157b2ef14bae5041067842c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_109
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22371082b8d2ab47ac18f2922534751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_110
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd43e95eca3958479241f375880088f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd94eb484cea884e8e2ba47720f4cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_112
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79161de47f0f3948ad67f66eb7ff6db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3487b3ae8406aa54c9501a7542391286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_114
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be79e2dd7fd264e8d1afc956e125f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_115
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06578573054ee5f47b45cd4326015cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1cae861f781fa489c182b4fa5c15aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_117
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31562f9a67e13814f963cf1a18880084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020e7ac8e8da2f4cb2b086bcce0e624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_119
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d394d43bba40a4cb6ec9db55b16841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_120
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e793bb735b6c94c912536da476f46d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e2397af9a206644b14ec8bb10b74c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_122
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2fd55e175f09438ca2fc4fd1fa915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_123
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad71df68efcfab4e8e9b478452cf243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_124
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd0e159f53b39143b1cc27897d34636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_125
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93005eeb14996f43a5e04fe8cd01784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52571b354fc634882f9e46e0fa3a7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_127
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 5
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a2dd8adcb91054d84c2864f56f2fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_man_x4__items_by_darksamus993-d8o46ts_128
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0fc2c3e2cd00d4aafd487f02de9807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5ad100361a52e164aa99e97e1f12aa66
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
